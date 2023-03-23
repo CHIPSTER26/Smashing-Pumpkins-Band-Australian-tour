@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: "Booter - Zero Zero";
-    src: url("/assets/fonts/Booter\ -\ Zero\ Zero.woff") format("woff"),
-         url("/assets/fonts/Booter\ -\ Zero\ Zero.woff2") format("woff2");
+    src: url("https://chipster26.github.io/Smashing-Pumpkins-Band-Australian-tour/assets/fonts/Booter\ -\ Zero\ Zero.woff") format("woff"),
+         url("https://chipster26.github.io/Smashing-Pumpkins-Band-Australian-tour/assets/fonts/Booter\ -\ Zero\ Zero.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -53,7 +53,7 @@ html, body {
 
 .main-header {
     background-color: #1C4B72;
-    background-image: url("/assets/images/header-back.jpg");
+    background-image: url("https://chipster26.github.io/Smashing-Pumpkins-Band-Australian-tour/assets/images/header-back.jpg");
     background-size: cover;
     background-attachment:scroll;
     padding-bottom: 30px;

@@ -11,7 +11,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: Raleway;
+    font-family: 'Playfair Display', serif;
     color: #777;
 }
 
@@ -83,7 +83,7 @@ html, body {
     
 }
 .section-header {
-    font-family: "Metal Mania";
+    font-family: 'Playfair Display', serif;
     font-weight: normal;
     color: #333;
     text-align: center;
